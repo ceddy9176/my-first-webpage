@@ -1,0 +1,33 @@
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+    font
+  }
+
+p {
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    position: absolute;
+    right: 400px;
+    font-size: 40px;
+}
+
+h3 {
+    position: absolute;
+    left: 400px;
+    font-size: 40px;
+}
+
+ul {
+  display: inline-block;
+}
