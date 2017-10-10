@@ -30,4 +30,4 @@ _HTML_
 
 *None*
 
-Copyright (c) 2017 **_Connor Miller, Mikey Pinaud_**
+Copyright (c) 2017 **_Connor Miller & Mikey Pinaud_**
