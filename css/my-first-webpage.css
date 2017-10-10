@@ -21,3 +21,10 @@ ol {
   font-size: 20px;
   line-height: 30px;
 }
+body {
+  background-image: url("https://i.warosu.org/data/g/img/0565/38/1473649330782.png");
+  background-color: #cccccc;
+  text-align: center;
+  color: white;
+
+}
