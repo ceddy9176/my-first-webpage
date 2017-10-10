@@ -19,7 +19,7 @@ _None_
 
 ## Support and contact details
 
-_Mikey Pinaud @ michael.pinaud@gamil.com_
+_Mikey Pinaud @ michael.pinaud@gmail.com_
 _Connor Miller @ ceddy9176@gmail.com_
 
 ## Technologies Used
